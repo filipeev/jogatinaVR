@@ -6,7 +6,7 @@ theme = "hugo-elate-theme"
 
 [params]
   
-  custom_css = ["css/custom1.css", "css/custom2.css"]
+  custom_css = []
 
   # Meta
   author = "Filipe Vargas"
@@ -31,19 +31,19 @@ theme = "hugo-elate-theme"
     
     # prepended links
     #[[menu.prepend]]
-    #  url = "http://gohugo.io"
+    #  url = "#"
     #  name = "Jogatina VR"
     #  weight = 10
 
     # postpended links
     #[[menu.postpend]]
-    #  url = "http://gohugo.io"
+    #  url = "#"
     #  name = "External link"
     #  weight = 10
   
   # Hero section
   [params.hero]
-    title = "Um novo nível de REALIDADE"
+    title = "Um novo nível de REALIDADE ao seu alcance"
     subtitle = "Através de tecnologia de ponta e jogos de ultima geração agora você pode experienciar as aventuras que você sempre sonhou mas nunca teve oportunidade de viver."
  
   # Intro section
@@ -51,27 +51,27 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Escolha os Jogos"
+    description = "Veja nosso catálogo e escolha até 4 jogos para vivenciar experiencias do mais alto nível "
     url = "#"
-    button = "Get In Touch"
-    icon = "icon-bulb"
+    button = "Catálogo"
+    icon = "icon-game-controller"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Agende seu evento"
+    description = "Trabalhamos nos mais diversos eventos, de segunda à sexta das 18h às 23h e nos finais de semana das 9h às 23h. Entre em contato conosco pelo site, e-mail ou telefone e agende seu evento o quanto antes."
     url = "#"
-    button = "Click Me"
-    icon = "icon-wrench"
+    button = "Entre em contato"
+    icon = "icon-calendar"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Divirta-se"
+    description = "Experiencia única e diversão garantida, ainda em duvida ? Veja algumas experiencias "
     url = "#"
-    button = "Why us?"
-    icon = "icon-rocket"
+    button = "Videos"
+    icon = "icon-control-play"
     img = "img_10.jpg"
 
   [params.intro.video]
