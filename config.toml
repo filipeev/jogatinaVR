@@ -158,22 +158,22 @@ theme = "hugo-elate-theme"
     description = "Oferecemos mais do que serviços, oferecemos experiências incríveis de simulações para festas e eventos. Deixe a cama eslástica de lado, é hora de contratar a melhor experiência para o aniversário do seu filho ou até mesmo para aquela reunião da empresa!"
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-anchor"
+      title = "Profissionais Qualificados"
+      description = "Oferecemos um serviço de imersão com tecnologia de ponta e profissionais qualificados. </br> Visamos um atendimento de qualidade para todos os públicos, crianças, adultos e idosos."
+      icon = "icon-people"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Técnologia de Ponta"
+      description = "Trabalhamos com a última versão do Playstation VR em conjunto com o Playstation 4 e Playstation move, tudo para garantir a melhor experiência possível."
       icon = "icon-layers2"
     [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
+      title = "Diversas Experiências"
+      description = "Nosso catálogo possuí uma grande variedadeæ de jogos, possibilitando MUITAS horas de diversão e diversas experiências como mergulhar com tubarões, sobreviver em um apocalipse, voar como uma águia e até mesmo viver personagens dos seus desenhos favoritos!"
+      icon = "icon-list"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      title = "Diversão Garantida"
+      description = "Além do jogador viver a total imersão dos jogos, uma TV mostra tudo que ele esta fazendo para os outros espectadores, o que garante muita diversão não só para o jogador como para seus amigos!"      
       icon = "icon-monitor"
 
   # About section
